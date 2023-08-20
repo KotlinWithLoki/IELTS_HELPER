@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IELTS HELPER</string>
+    <string name="title_activity_questions">questionsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+</resources>
